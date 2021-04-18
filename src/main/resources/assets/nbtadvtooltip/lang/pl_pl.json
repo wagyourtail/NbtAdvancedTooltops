@@ -1,0 +1,7 @@
+{
+  "key.nbtadvtooltip.category": "NBT Advanced Tooltips",
+  "key.nbtadvtooltip.show_nbt.desc": "Pokaż NBT",
+
+  "tooltip.nbtadvtooltip.no_nbt_found": "Brak NBT",
+  "tooltip.nbtadvtooltip.hold_key": "Przytrzymaj [%s] aby zobaczyćs NBT"
+}
